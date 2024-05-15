@@ -1,6 +1,6 @@
 Welcome to my GitHub profile!
 
-👋 Hi, I’m Farheen Akhter
+👋 Hi, I’m **Farheen Akhter**
   
 - I have seven years of experience working as a full stack developer, and my prior technical expertise includes **Java, Python, ReactJS, NodeJs (Mongo DB), and React Native**. I focused on developing incredible mobile and web applications that benefit society in fields like e-commerce, banking, and health. My most recent clients are EMD (UGL-Australia) and Limonerira (California).
 - I chose to pursue a master's degree in artificial intelligence and machine learning because I was so excited about these fields. Now that I'm in **California**, I'm looking for opportunities to work with people in the field of machine learning.
