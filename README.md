@@ -27,7 +27,7 @@ Currently undergoing training in the Generative AI domain with Lang chain (LLM).
 
 Feel free to explore my repositories for projects showcasing these skills in act. 
 
-Also reach out to me at **akhter0893@gmail.com** or connect me over linkedin **https://www.linkedin.com/in/farheen-akhter-153a0b156/** for collaboration on job oppurtunities or technical discussion!
+Also reach out to me at **akhter0893@gmail.com** or connect with me over linkedin **https://www.linkedin.com/in/farheen-akhter-153a0b156/** for collaboration on job oppurtunities or technical discussion!
 
 
 
