@@ -9,24 +9,25 @@ Welcome to my GitHub profile!
  Here's a snapshot of my **technical qualifications**
 
 **Artificial Intelligence and Machine Learning**
-Completed comprehensive coursework covering fundamental concepts and advanced topics in AI and ML.
-Proficient in algorithms, neural networks, and data science techniques, utilizing Python for problem-solving.
-Deep Learning
-Hands-on experience with popular deep learning libraries such as PyTorch and TensorFlow framework.
+- Completed comprehensive coursework covering fundamental concepts and advanced topics in AI and ML.
+- Proficient in algorithms, neural networks, and data science techniques, utilizing Python for problem-solving,Deep Learning
+- Hands-on experience with popular deep learning libraries such as PyTorch and TensorFlow framework.
 
 **Generative AI**
 Currently undergoing training in the Generative AI domain with Lang chain (LLM).
 
 **Programming Languages and Technologies**
-Proficient in: Python, Java, ReactJS/TS, HTML, CSS, JavaScript, C++, NodeJS with MongoDB, GraphQL, React Native.
-Experienced with IDEs: Eclipse, Visual Studio Code, Android Studio.
+- Proficient in: Python, Java, ReactJS/TS, HTML, CSS, JavaScript, C++, NodeJS with MongoDB, GraphQL, React Native.
+- Experienced with IDEs: Eclipse, Visual Studio Code, Android Studio.
 
 **Software Development Practices**
-Familiar with Software Development Lifecycle.
-Skilled in DevOps practices including Continuous Integration and Continuous Delivery (CI/CD).
-Experienced in Agile development methodologies.
+- Familiar with Software Development Lifecycle.
+- Skilled in DevOps practices including Continuous Integration and Continuous Delivery (CI/CD).
+- Experienced in Agile development methodologies.
 
-Feel free to explore my repositories for projects showcasing these skills in act. Also reach out to me at **akhter0893@gmail.com** for collaboration on job oppurtunities or technical discussion!
+Feel free to explore my repositories for projects showcasing these skills in act. 
+
+Also reach out to me at **akhter0893@gmail.com** or connect me over linkedin **https://www.linkedin.com/in/farheen-akhter-153a0b156/** for collaboration on job oppurtunities or technical discussion!
 
 
 
