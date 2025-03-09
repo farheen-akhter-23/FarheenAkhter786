@@ -1,33 +1,38 @@
-Welcome to my GitHub profile!
+# **👋 Hi, I'm Farheen Akhter!**
 
-👋 Hi, I’m **Farheen Akhter**
-  
-- I have seven years of experience working as a full stack developer, and my prior technical expertise includes **Java, Python, ReactJS, NodeJs (Mongo DB), and React Native**. I focused on developing incredible mobile and web applications that benefit society in fields like e-commerce, banking, and health. My most recent clients are EMD (UGL-Australia) and Limonerira (California).
-- I chose to pursue a master's degree in artificial intelligence and machine learning because I was so excited about these fields. Now that I'm in **California**, I'm looking for opportunities to work with people in the field of machine learning.
-- I have focused more on AI and ML in my coursework, including topics like **computer vision, deep learning**, Please see my ML Portfolio repository for my most recent work
+## **🚀 AI Engineer | Machine Learning Researcher | Deep Learning | LLMs | Generative AI**  
 
- Here's a snapshot of my **technical qualifications**
+Welcome to my GitHub! I'm a passionate **AI Engineer & Researcher** specializing in **Machine Learning, Deep Learning, and AI model deployment**. My expertise lies in **building Large Language Models (LLMs), Generative AI, Computer Vision applications, and Bias Mitigation in AI**. I thrive in **end-to-end AI development**, from **model training and fine-tuning to scalable deployment on HPC and cloud platforms**.
 
-**Artificial Intelligence and Machine Learning**
-- Completed comprehensive coursework covering fundamental concepts and advanced topics in AI and ML.
-- Proficient in algorithms, neural networks, and data science techniques, utilizing Python for problem-solving,Deep Learning
-- Hands-on experience with popular deep learning libraries such as PyTorch and TensorFlow framework.
+---
 
-**Generative AI**
-Currently undergoing training in the Generative AI domain with Lang chain (LLM).
+## **💡 What I Work On**
+- **🚀 LLMs & Generative AI**: Fine-tuning **Mistral, LangChain, RAG-based AI** for **semantic search & chatbots**
+- **🖼️ Computer Vision**: **AI-powered Pet Recognition System** & **Bed Posture Recognition with Deep Learning**
+- **🔍 AI Fairness & Bias Mitigation**: Researching **explainability, model fairness, and ethical AI applications**
+- **⚡ High-Performance AI & MLOps**: Deploying AI models on **HPC (NVIDIA RTX 5000), AWS SageMaker, TensorRT**
+- **🌎 AI for Social Impact**: AI-driven **Grant Finder** for **funding recommendations & automation**
 
-**Programming Languages and Technologies**
-- Proficient in: Python, Java, ReactJS/TS, HTML, CSS, JavaScript, C++, NodeJS with MongoDB, GraphQL, React Native.
-- Experienced with IDEs: Eclipse, Visual Studio Code, Android Studio.
+---
 
-**Software Development Practices**
-- Familiar with Software Development Lifecycle.
-- Skilled in DevOps practices including Continuous Integration and Continuous Delivery (CI/CD).
-- Experienced in Agile development methodologies.
+## **📌 Featured Projects**
+🔹 **[Grant Finder AI 🤖](https://github.com/your-repo)** – AI-powered chatbot for **automated grant discovery** using **LLMs & Vector Databases**
+🔹 **[Pet Finder 🐶](https://github.com/your-repo)** – **Face recognition AI** for lost pets, deployed using **HPC & Deep Learning**
+🔹 **[Bias Mitigation in AI 📜](https://github.com/your-repo)** – Research on **Fairness-aware AI models, accepted at CAI 2025**
+🔹 **[Bed Posture Recognition 🛏️](https://github.com/your-repo)** – **Deep Learning-based medical AI** for patient monitoring
+🔹 **[Academic Chatbot 🎓](https://github.com/your-repo)** – **LLM-powered RAG chatbot** for university-level academic assistance
 
-Feel free to explore my repositories for projects showcasing these skills in act. 
+---
 
-Also reach out to me at **akhter0893@gmail.com** or connect with me over linkedin **https://www.linkedin.com/in/farheen-akhter-153a0b156/** for collaboration on job oppurtunities or technical discussion!
+## **📫 Looking for AI/ML Opportunities!**
+I am **actively looking for AI Engineer & ML Researcher roles** where I can apply my expertise in **LLMs, MLOps, Deep Learning, and AI fairness** to build impactful AI solutions. If you're hiring or collaborating on exciting AI projects, let's connect!
 
+📩 **Email:** your.email@example.com  
+💼 **LinkedIn:** [linkedin.com/in/farheen-akhter](https://linkedin.com/in/farheen-akhter)  
+📝 **Portfolio:** [Coming Soon!]  
 
+---
+
+### **🚀 Let's Build AI for the Future!**
+Feel free to check out my work, contribute, or collaborate on innovative AI/ML projects! 😊
 
