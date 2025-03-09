@@ -9,13 +9,13 @@ Welcome to my GitHub! I'm a passionate **AI Engineer & Researcher** specializing
 ## **💡 What I Work On**
 
 - **🚀 LLMs & Generative AI**: Fine-tuning **Mistral, LangChain, RAG-based AI** for **semantic search & chatbots**
-- 
+
 - **🖼️ Computer Vision**: **AI-powered Pet Recognition System** & **Bed Posture Recognition with Deep Learning**
-- 
+
 - **🔍 AI Fairness & Bias Mitigation**: Researching **explainability, model fairness, and ethical AI applications**
-- 
+
 - **⚡ High-Performance AI & MLOps**: Deploying AI models on **HPC (NVIDIA RTX 5000), AWS SageMaker, TensorRT**
-- 
+  
 - **🌎 AI for Social Impact**: AI-driven **Grant Finder** for **funding recommendations & automation**
 
 ---
