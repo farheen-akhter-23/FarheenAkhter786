@@ -22,15 +22,11 @@ Welcome to my GitHub! I'm a passionate **AI Engineer & Researcher** specializing
 
 ## **📌 Featured Projects**
 
-🔹 **[Grant Finder AI 🤖](https://github.com/your-repo)** – AI-powered chatbot for **automated grant discovery** using **LLMs & Vector Databases**
+🔹 **[Milvus Mistral AI Academic Chatbot 🎓]([https://github.com/your-repo](https://github.com/farheen-akhter-23/Milvus-MistralAI-Chatbot))** – **LLM-powered RAG chatbot** for university-level academic assistance
 
-🔹 **[Pet Finder 🐶](https://github.com/your-repo)** – **Face recognition AI** for lost pets, deployed using **HPC & Deep Learning**
+🔹 **[ATS Resume Evaluator 🎓]([[https://github.com/your-repo](https://github.com/farheen-akhter-23/Milvus-MistralAI-Chatbot](https://github.com/farheen-akhter-23/LLM-RAG)))** – **An AI-powered tool that analyzes resumes for ATS compliance, optimizing keyword relevance and formatting to improve job application success.
 
-🔹 **[Bias Mitigation in AI 📜](https://github.com/your-repo)** – Research on **Fairness-aware AI models, accepted at CAI 2025**
-
-🔹 **[Bed Posture Recognition 🛏️](https://github.com/your-repo)** – **Deep Learning-based medical AI** for patient monitoring
-
-🔹 **[Academic Chatbot 🎓](https://github.com/your-repo)** – **LLM-powered RAG chatbot** for university-level academic assistance
+More to come..!
 
 ---
 
